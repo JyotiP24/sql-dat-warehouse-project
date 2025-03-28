@@ -71,9 +71,4 @@ This project is an excellent resource for professionals and students looking to 
 - Integrate with **cloud storage solutions**.
 - Implement **real-time data processing** with **Apache Kafka**.
 
----
-**Contributors**: Your Name (@your-username)
-
-📧 Contact: your.email@example.com
-
 
