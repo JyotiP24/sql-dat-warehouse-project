@@ -58,17 +58,11 @@ This project is an excellent resource for professionals and students looking to 
 - **Data Analytics**
 
 ## 🚀 How to Use
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/data-warehouse-project.git
-   ```
+1. **Clone the Repository**
 2. **Set Up SQL Server** with the provided scripts.
 3. **Run ETL Pipelines** to ingest and process data.
 4. **Explore Business Insights** using SQL queries and dashboards.
 
-## 📌 Future Enhancements
-- Automate ETL pipelines using **Apache Airflow**.
-- Integrate with **cloud storage solutions**.
-- Implement **real-time data processing** with **Apache Kafka**.
+
 
 
